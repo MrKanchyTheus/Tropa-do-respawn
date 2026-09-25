@@ -1,1 +1,1 @@
-Tropa do respawn wiki de jogos
+# Tropa do respawn wiki de jogos
