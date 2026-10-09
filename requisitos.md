@@ -23,3 +23,5 @@ Insira suas regras de negocio.
  - Estilize as telas em Tailwind de forma responsiva priorizando o MobileFrist.
  - Retorne sempre as mensagens de erros de forma claras na interface para o usuário (TOAST)
  - sempre trate as mensagens de caixa de mensagens nativas do navegador em um MODAL
+ - As fontes vão ser inter, Rajdhani e JetBrains Mono, a cor vai ser branca e roxa.
+ - As cores do site vão se caracterizar  ser com fundo preto e com detalhes em roxo.
